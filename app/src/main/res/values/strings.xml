@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="submit">kaskas</string>
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert music</string>
+    <string name="action_music_my_list">Add my list</string>
+</resources>
